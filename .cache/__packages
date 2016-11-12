@@ -1,0 +1,7 @@
+base
+shiny
+dplyr
+lubridate
+ggplot2
+rsconnect
+slidify
